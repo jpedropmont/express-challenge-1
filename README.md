@@ -1,6 +1,6 @@
 ## Configuring Application
 
-Use the package manager [yarn](https://yarnpkg.com/) to install express.
+Use the package manager [yarn](https://yarnpkg.com/) to install [express](https://expressjs.com/).
 
 ```bash
 yarn add express
